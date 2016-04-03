@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: 7ac04154f49207543812159ef9517f01
+timeCreated: 1459684229
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: widgets2_0
+    21300002: widgets2_1
+    21300004: widgets2_2
+    21300006: widgets2_3
+    21300008: widget_flower
+    21300010: widgets2_5
+    21300012: widgets2_6
+    21300014: widgets2_7
+    21300016: widgets2_8
+    21300018: widgets2_9
+    21300020: widgets2_10
+    21300022: widgets2_11
+    21300024: widgets2_12
+    21300026: widgets2_13
+    21300028: widgets2_14
+    21300030: widgets2_15
+    21300032: widgets2_16
+    21300034: widgets2_17
+    21300036: widgets2_18
+    21300038: widgets2_19
+    21300040: widgets2_20
+    21300042: widgets2_21
+    21300044: widgets2_22
+    21300046: widgets2_23
+    21300048: widgets2_24
+    21300050: widgets2_25
+    21300052: widgets2_26
+    21300054: widgets2_27
+    21300056: widgets2_28
+    21300058: widgets2_29
+    21300060: widgets2_30
+    21300062: widgets2_31
+    21300064: widgets2_32
+    21300066: widgets2_33
+    21300068: widgets2_34
+    21300070: widgets2_35
+    21300072: widgets2_36
+    21300074: widgets2_37
+    21300076: widgets2_38
+    21300078: widget_seed
+    21300080: widgets2_40
+    21300082: widget_stone
+    21300084: widgets2_42
+    21300086: widget_wood
+    21300088: widgets2_44
+    21300090: widgets2_45
+    21300092: widgets2_46
+    21300094: widgets2_47
+    21300096: widgets2_48
+    21300098: widgets2_49
+    21300100: widgets2_50
+    21300102: widgets2_51
+    21300104: widgets2_52
+    21300106: widgets2_53
+    21300108: widgets2_54
+    21300110: widgets2_55
+    21300112: widgets2_56
+    21300114: widgets2_57
+    21300116: widgets2_58
+    21300118: widgets2_59
+    21300120: widgets2_60
+    21300122: widgets2_61
+    21300124: widgets2_62
+    21300126: widgets2_63
+    21300128: widgets2_64
+    21300130: widgets2_65
+    21300132: widgets2_66
+    21300134: widgets2_67
+    21300136: widgets2_68
+    21300138: widgets2_69
+    21300140: widgets2_70
+    21300142: widgets2_71
+    21300144: widgets2_72
+    21300146: widgets2_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: widgets2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 400
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 401
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 399
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 399
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widget_flower
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 395
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 396
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 365
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 365
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 364
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 365
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 365
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 363
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 332
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 330
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 334
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 334
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 334
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 334
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 302
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 302
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 300
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 303
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 303
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 302
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 270
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 269
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 266
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 268
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 269
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 269
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 237
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 238
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 235
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 238
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 238
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 238
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 204
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 204
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widget_seed
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 204
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 204
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widget_stone
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 202
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 173
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widget_wood
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 168
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_45
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 169
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 169
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 131
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 134
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 131
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_53
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 134
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 99
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 99
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 99
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 62
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 62
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 62
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_64
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 63
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 59
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_66
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_69
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_70
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_71
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: widgets2_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
