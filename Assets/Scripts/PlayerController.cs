@@ -52,17 +52,18 @@ namespace Moon.Demo {
         /// <summary>
         /// Move to a target position, without doing any operation.
         /// </summary>
-        public void MoveTo(Vector2 world) {
+        public bool MoveTo(Vector2 world) {
             if (is_working_) {
-                return;
+                return false;
             }
 
             agent_.SetDestination(world);
+            return true;
         }
 
-        public void MoveAndOperate(MapWidget target_widget) {
+        public bool MoveAndOperate(MapWidget target_widget) {
             if (is_working_) {
-                return;
+                return false;
             }
 
             var candidate_pos = MapManager.Instance.GetValidAdjancentTile(target_widget);
@@ -83,6 +84,7 @@ namespace Moon.Demo {
             current_actionlist_.Add(new MoveActionStep(agent_, adjacent_pos));
             current_actionlist_.Add(new WorkActionStep(this, face, target_widget as FieldWidget, workTime));
             current_actionlist_.Start();
+            return true;
         }
 
         public void Work(float worktime, System.Action finish_cb) {

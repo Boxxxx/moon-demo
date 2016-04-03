@@ -25,12 +25,14 @@ namespace Moon.Demo {
                 current_selected = new_selected;
                 if (new_selected != null) {
                     if (new_selected.IsOperale(player)) {
-                        current_selected.SetHighlight(true, true);
-                        player.MoveAndOperate(current_selected);
+                        if (player.MoveAndOperate(current_selected)) {
+                            current_selected.SetHighlight(true, true);
+                        }
                     }
                     else {
-                        current_selected.SetHighlight(true, false);
-                        player.MoveTo(world_pos);
+                        if (player.MoveTo(world_pos)) {
+                            current_selected.SetHighlight(true, false);
+                        }
                     }
                 } else {
                     player.MoveTo(world_pos);
