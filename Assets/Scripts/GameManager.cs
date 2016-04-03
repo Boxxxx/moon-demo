@@ -32,6 +32,8 @@ namespace Moon.Demo {
                         current_selected.SetHighlight(true, false);
                         player.MoveTo(world_pos);
                     }
+                } else {
+                    player.MoveTo(world_pos);
                 }
             }
         }
