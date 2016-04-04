@@ -122,7 +122,9 @@ namespace Moon.Demo {
                 }
             }
             if (isInAction) {
-                current_actionlist_.Update();
+                if (!current_actionlist_.Update()) {
+                    current_actionlist_ = null;
+                }
             }
         }
 

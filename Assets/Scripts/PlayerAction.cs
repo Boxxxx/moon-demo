@@ -102,10 +102,11 @@ namespace Moon.Demo {
             AllDown(false);
         }
 
-        public void Update() {
+        public bool Update() {
             if (isRunning) {
                 steps_[current_index_].Update();
             }
+            return isRunning;
         }
 
         public void OnDone(bool succeed) {
