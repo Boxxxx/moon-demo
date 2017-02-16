@@ -12,7 +12,7 @@ class NavMeshObstacle2D(MonoBehaviour):
     #public carve = false
     
     # the projection
-    obst as NavMeshObstacle
+    obst as UnityEngine.AI.NavMeshObstacle
     
     # project agent position to 2D
     def project_to_2d(v as Vector3):
@@ -30,7 +30,7 @@ class NavMeshObstacle2D(MonoBehaviour):
         g = GameObject.CreatePrimitive(PrimitiveType.Cylinder)
         g.name = "PATH2D_OBSTACLE"
         g.transform.position = project_to_3d(transform.position)
-        obst = g.AddComponent[of NavMeshObstacle]()
+        obst = g.AddComponent[of UnityEngine.AI.NavMeshObstacle]()
         # disable navmesh and collider (no collider for now...)
         Destroy(obst.GetComponent[of Collider]())
         Destroy(obst.GetComponent[of MeshRenderer]())

@@ -11,7 +11,7 @@ class NavMeshAgent2D(MonoBehaviour):
     public autoBraking as bool = false
     
     # the projection
-    agent as NavMeshAgent
+    agent as UnityEngine.AI.NavMeshAgent
     
     # project agent position to 2D
     def project_to_2d(v as Vector3):
@@ -26,7 +26,7 @@ class NavMeshAgent2D(MonoBehaviour):
         g = GameObject.CreatePrimitive(PrimitiveType.Cylinder)
         g.name = "PATH2D_AGENT"
         g.transform.position = project_to_3d(transform.position) # todo height 0.5 again?
-        agent = g.AddComponent[of NavMeshAgent]()
+        agent = g.AddComponent[of UnityEngine.AI.NavMeshAgent]()
         # disable navmesh and collider (no collider for now...)
         Destroy(agent.GetComponent[of Collider]())
         Destroy(agent.GetComponent[of MeshRenderer]())
